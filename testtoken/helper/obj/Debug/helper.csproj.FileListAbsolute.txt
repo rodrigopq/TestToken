@@ -1,0 +1,9 @@
+H:\Test\TestToken\testtoken\helper\bin\Debug\helper.dll
+H:\Test\TestToken\testtoken\helper\bin\Debug\helper.pdb
+H:\Test\TestToken\testtoken\helper\obj\Debug\helper.dll
+H:\Test\TestToken\testtoken\helper\obj\Debug\helper.pdb
+D:\Test\TestToken\testtoken\helper\bin\Debug\helper.dll
+D:\Test\TestToken\testtoken\helper\bin\Debug\helper.pdb
+D:\Test\TestToken\testtoken\helper\obj\Debug\helper.dll
+D:\Test\TestToken\testtoken\helper\obj\Debug\helper.pdb
+H:\Test\TestToken\testtoken\helper\obj\Debug\helper.csprojResolveAssemblyReference.cache
